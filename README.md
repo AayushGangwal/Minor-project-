@@ -1,7 +1,9 @@
 # Minor-project-
 Name Aayush Gangwal
+
 roll no 23CA2581001
-groud id:HA
+
+group id:AH
 
 
 Credit card approval model
